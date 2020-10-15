@@ -1,0 +1,5 @@
+class Satellite:
+  def __init_(self, x, y, z)
+    self.x=x
+    self.y=y
+    self.z=z
